@@ -45,9 +45,13 @@ Frontend will run at 👉 http://localhost:5173/
 
 Example
 Input:
-By using our services, you agree not to misuse the platform, including unauthorized access or reverse engineering of our software...
+<img width="1920" height="1080" alt="Screenshot 2025-10-30 204245" src="https://github.com/user-attachments/assets/6545b8f1-1c3e-41c1-aa34-f65084e1324a" />
+
 Output:
-Users must avoid unauthorized access or misuse of the platform.
+<img width="1920" height="1080" alt="Screenshot 2025-10-30 204314" src="https://github.com/user-attachments/assets/1533deb8-59fb-45da-a722-e9e564f3759f" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-30 205435" src="https://github.com/user-attachments/assets/52cb64fb-a160-43f0-acf6-9b59b8b78fbb" />
+
+
 
 Model Information:
 Model Used: BART / T5 (from Hugging Face)
